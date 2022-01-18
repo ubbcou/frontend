@@ -1,3 +1,3 @@
-# Server side rendering
+# Server-side rendering
 
 If needed
